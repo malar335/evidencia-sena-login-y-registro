@@ -29,7 +29,7 @@ font-size: larger;
 
 .form-container{
     width: 500px;
-    background-color: #ffffff;
+    background-color: #3a8f73;
     border-radius: 10px;
     padding: 50px;
 
@@ -58,7 +58,7 @@ input, button{
 }
 
 button{
-    background-color: #6495ed;
+    background-color: #ee7e23;
     color: white;
     font-weight: bold; /*negrita*/
     cursor: pointer;
